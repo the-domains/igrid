@@ -1,0 +1,14 @@
+layout_spectrum: 0.6911211335100234
+typography_spectrum: 0.9563916521146894
+color:
+  brandStrength: 0.9086940817069262
+  lightness: 0.9691642008256167
+  saturation: 0.24061612342484295
+  rhythmicContrast: 0.5703172627836466
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+name: iGrid
